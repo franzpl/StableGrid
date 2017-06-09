@@ -1,6 +1,6 @@
 # StableGrid
 
-![Hardware](hardware_schmitt_trigger.png)
+![Hardware](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/hardware_schmitt_trigger.jpg)
 
 # Introduction
 
