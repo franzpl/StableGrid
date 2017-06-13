@@ -1,6 +1,5 @@
 // Calibration of Arduino quartz ( 16 MHz) with a reference of 1 Hz 
 
-#include <eRCaGuy_Timer2_Counter.h>
 #include <DS3232RTC.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -39,7 +38,6 @@ void setup()
   lcd.print("Start calibration... ");
   lcd.setCursor(9, 2);
   lcd.print(" MHz");
-  timer2.setup();
   attachInterrupt(1, myinthandler, RISING);
 }
 
@@ -61,8 +59,7 @@ void loop()
 
 void myinthandler() {
 
-  //currentMicros = micros() ;
-  currentMicros = timer2.get_count() / 2.0;
+  currentMicros = micros() ;
   duration = currentMicros - previousMicros;
   previousMicros = currentMicros; 
 
