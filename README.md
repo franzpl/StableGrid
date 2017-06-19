@@ -1,6 +1,7 @@
 # StableGrid
 
-![Hardware](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/hardware_schmitt_trigger.jpg)
+![Mains Frequency One Day](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/frequency_characteristic_16_6_17.png)
+
 
 # Introduction
 
@@ -22,6 +23,8 @@ Both approaches have advantages and disadvantages. On the one hand, the Schmitt 
 
 
 ![Schmitt Trigger](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/stable_grid_schmitt_trigger.png)
+
+![Hardware](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/hardware_schmitt_trigger.jpg)
 
 ## Optocoupler Approach
 
