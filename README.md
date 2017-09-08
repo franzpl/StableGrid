@@ -31,3 +31,5 @@ Both approaches have advantages and disadvantages. On the one hand, the Schmitt 
 
 ![Optocoupler](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/stable_grid_optocoupler.png)
 
+![Hardware](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/hardware_optocoupler.jpg)
+
