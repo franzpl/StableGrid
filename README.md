@@ -33,3 +33,13 @@ Both approaches have advantages and disadvantages. On the one hand, the Schmitt 
 
 ![Hardware](https://github.com/franzpl/StableGrid/blob/master/doc_pictures/hardware_optocoupler.jpg)
 
+# Bibliography
+
+Some ideas are taken from the **netzsinus project** founded by Mathias Dalheimer: <br />
+
+https://gonium.net/blog/2014/07/29/50hz--messung-der-netzfrequenz <br />
+https://github.com/netzsinus <br />
+https://netzsin.us/
+
+
+
